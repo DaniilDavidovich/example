@@ -29,3 +29,7 @@ class Future() {
     var str = 1
     var str = 2
 }
+
+func two() {
+    var two = 2
+}
