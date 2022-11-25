@@ -38,3 +38,15 @@ struct Three {
     
     var three = 3
 }
+
+let four = 4
+let fourStr = "4"
+
+class Five: Future {
+    var fiveDouble = 5.0
+}
+
+protocol Six {
+    
+    func six() { get set }
+}
