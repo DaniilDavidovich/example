@@ -33,3 +33,8 @@ class Future() {
 func two() {
     var two = 2
 }
+
+struct Three {
+    
+    var three = 3
+}
