@@ -24,3 +24,8 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+class Future() {
+    var str = 1
+    var str = 2
+}
