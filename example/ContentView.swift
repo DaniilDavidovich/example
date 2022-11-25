@@ -24,3 +24,29 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+class Future() {
+    var str = 1
+    var str = 2
+}
+
+func two() {
+    var two = 2
+}
+
+struct Three {
+    
+    var three = 3
+}
+
+let four = 4
+let fourStr = "4"
+
+class Five: Future {
+    var fiveDouble = 5.0
+}
+
+protocol Six {
+    
+    func six() { get set }
+}
