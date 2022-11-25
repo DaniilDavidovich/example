@@ -48,5 +48,5 @@ class Five: Future {
 
 protocol Six {
     
-    func six() { get set }
+    func six() 
 }
